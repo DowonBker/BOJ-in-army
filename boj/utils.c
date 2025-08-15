@@ -1,3 +1,11 @@
+//기본 구조
+#include <stdio.h>
+
+int main(){
+
+    return 0;
+}
+
 //정수 n을 넣었을 때 소수면 1을 반환하고 
 //그렇지않으면 0을 반환하는 함수
 int PrimeNum(int n){
